@@ -1,0 +1,61 @@
+{  
+"data": [  
+         {  
+        "free_space": 2.94,  
+        "sum_blocks": 3080,  
+        "sum_space": 313.13,  
+        "tablespace_name": "EXAMPLE",  
+        "used_rate": 99.06,  
+        "used_space": 310.19  
+        },  
+        {  
+        "free_space": 9501,  
+        "sum_blocks": 2621440,  
+        "sum_space": 20480,  
+        "tablespace_name": "SLOB",  
+        "used_rate": 12.11,  
+        "used_space": 10979  
+        },  
+        {  
+        "free_space": 1205,  
+        "sum_blocks": 5445655,  
+        "sum_space": 15353,  
+        "tablespace_name": "teaB",  
+        "used_rate": 53.61,  
+        "used_space": 13959  
+        },  
+        {  
+        "free_space": 6225,  
+        "sum_blocks": 262789,  
+        "sum_space": 35888,  
+        "tablespace_name": "hahahaha",  
+        "used_rate": 2.61,  
+        "used_space": 16879  
+        },  
+        {  
+        "free_space": 7582,  
+        "sum_blocks": 94720,  
+        "sum_space": 740,  
+        "tablespace_name": "SYSAUX",  
+        "used_rate": 94.68,  
+        "used_space": 700.62  
+        },  
+        {  
+        "free_space": 6684,  
+        "sum_blocks": 85647,  
+        "sum_space": 510,  
+        "tablespace_name": "DFHTGJ",  
+        "used_rate": 85.28,  
+        "used_space": 582.14  
+        },  
+        {  
+        "free_space": 2855,  
+        "sum_blocks": 62487,  
+        "sum_space": 380,  
+        "tablespace_name": "HIASD",  
+        "used_rate": 68.24,  
+        "used_space": 358.56  
+        }  
+],  
+"status": "ok"  
+}  
